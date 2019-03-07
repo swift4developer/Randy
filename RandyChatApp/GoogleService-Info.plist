@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>198036592388-4e7rb14oohle5ofnd61jh2d2it7e0055.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.198036592388-4e7rb14oohle5ofnd61jh2d2it7e0055</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDfnBWS-3MkXzJbRp-Zm-9JV5R0Yxarg6Q</string>
+	<key>GCM_SENDER_ID</key>
+	<string>198036592388</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Magneto.RandyChatApp</string>
+	<key>PROJECT_ID</key>
+	<string>randychatapp-d3d32</string>
+	<key>STORAGE_BUCKET</key>
+	<string>randychatapp-d3d32.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:198036592388:ios:d55ff525fd21ab45</string>
+	<key>DATABASE_URL</key>
+	<string>https://randychatapp-d3d32.firebaseio.com</string>
+</dict>
+</plist>
